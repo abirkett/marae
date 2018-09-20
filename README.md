@@ -7,6 +7,8 @@
 </a>
 </p>
 
+<input type="button" onclick="location.href='https://www.facebook.com/pikiaorunanga/?ref=br_rs';" value="Go to Google" />
+
 
 </body>
     </html>
